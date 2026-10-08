@@ -37,19 +37,19 @@ Latest News
 **[April, 2026]** I was selected to serve as a reviewer for **NeurIPS 2026**.
 
 ------
-**[February, 2026]** I successfully defended my PhD thesis, [*From Accelerated First-Order Methods to Structured Nonconvex Optimization: Analysis and Perspectives*](https://umu.diva-portal.org/smash/record.jsf?pid=diva2:2031159), at **Umeå University**.
+**[February, 2026]** I successfully defended my PhD thesis, [*From Accelerated First-Order Methods to Structured Nonconvex Optimization: Analysis and Perspectives*](https://umu.diva-portal.org/smash/record.jsf?pid=diva2:2031159), at **Umeå University**. I am honored to have Yura Malitsky as my thesis opponent and Sebastian Pokutta, Niao He, and Patrik Ryden on my defense committee.
 
 ------
 **[February, 2026]** I was selected to serve as a reviewer for **ICML 2026**.
 
 ------
+**[December, 2025]** Our paper [*Randomized Block Coordinate DC Algorithm*](https://www.sciencedirect.com/science/article/pii/S2192440625000206), with Paniz Halvachi, Suvrit Sra, and Alp Yurtsever, was published in the **EURO Journal on Computational Optimization**.
+
+------
 **[November, 2025]** I was selected to serve as a reviewer for **ICLR 2026**.
 
 ------
-**[September, 2025]** Our paper [*Revisiting Frank-Wolfe for Structured Nonconvex Optimization*](https://openreview.net/forum?id=hJRklWq4Ah), with Yikun Hou, Suvrit Sra, and Alp Yurtsever, was accepted at **NeurIPS 2025**. I also received a travel grant from the **Kempe Foundation** to attend the conference.
-
-------
-**[2025]** Our paper [*Randomized Block Coordinate DC Algorithm*](https://www.sciencedirect.com/science/article/pii/S2192440625000206), with Paniz Halvachi, Suvrit Sra, and Alp Yurtsever, was published in the **EURO Journal on Computational Optimization**.
+**[September, 2025]** Our paper [*Revisiting Frank-Wolfe for Structured Nonconvex Optimization*](https://openreview.net/forum?id=hJRklWq4Ah), with Yikun Hou, Suvrit Sra, and Alp Yurtsever, was accepted at **NeurIPS **. I also received a travel grant from the **Kempe Foundation** to attend the conference.
 
 ------
 **[June, 2025]** I was selected to serve as a reviewer for **NeurIPS 2025**. I also served as a reviewer for the *Journal of Optimization Theory and Applications* (JOTA).
